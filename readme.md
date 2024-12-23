@@ -72,3 +72,6 @@ start_consume_backup.spec ，这个文件是复制自pyinstaller -F start_consum
 
 用户自己的项目复制参考 本项目的 start_consume_backup.spec 的 get_py_files__dir函数，然后调用此函数传给datas。
 ```
+
+如下图，你可以看到 start_consume_backup.spec 改了什么地方
+![img_1.png](img_1.png)
