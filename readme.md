@@ -2,7 +2,11 @@
 
 #  使用 pyinstaller 打包 funboost项目为exe 说明文档
 
+## 0 项目代码说明
 
+start_consume.py 是启动消费的文件，这就是我们要打包的目标文件
+
+push_message.py 是发布消息的
 
 ## 1 打包命令 
 
