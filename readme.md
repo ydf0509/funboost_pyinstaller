@@ -20,7 +20,9 @@ pyinstaller -F start_consume.py
 
 ## 2. 如果装饰器没加 consuming_function_kind=FunctionKind.XXXX， 上面打包一后运行定会遇到如下报错
 
-![img.png](img.png)
+[//]: # (![img.png]&#40;img.png&#41;)
+
+![https://imgse.com/i/pAjmPVe](https://imgse.com/i/pAjmPVe)
 
 ```
 2024-12-23 18:46:17 - global_except_hook - "nb_log\global_except_hook.py:14" - global_except_hook - ERROR - Unhandled exception:
@@ -74,4 +76,7 @@ start_consume_backup.spec ，这个文件是复制自pyinstaller -F start_consum
 ```
 
 如下图，你可以看到 start_consume_backup.spec 改了什么地方
-![img_1.png](img_1.png)
+
+[//]: # (![img_1.png]&#40;img_1.png&#41;)
+
+[![pAjm9bD.png](https://s21.ax1x.com/2024/12/24/pAjm9bD.png)](https://imgse.com/i/pAjm9bD)
