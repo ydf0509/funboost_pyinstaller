@@ -22,7 +22,7 @@ pyinstaller -F start_consume.py
 
 [//]: # (![img.png]&#40;img.png&#41;)
 
-![https://imgse.com/i/pAjmPVe](https://imgse.com/i/pAjmPVe)
+[![pAjmPVe.png](https://s21.ax1x.com/2024/12/24/pAjmPVe.png)](https://imgse.com/i/pAjmPVe)
 
 ```
 2024-12-23 18:46:17 - global_except_hook - "nb_log\global_except_hook.py:14" - global_except_hook - ERROR - Unhandled exception:
